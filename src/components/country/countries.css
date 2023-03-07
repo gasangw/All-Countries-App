@@ -52,6 +52,10 @@
     font-weight: 600;
 }
 
+/* Link {
+  text-decoration: none;
+} */
+
 /* media queries */
 
 @media(max-width: 769px){
