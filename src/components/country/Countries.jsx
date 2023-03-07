@@ -5,7 +5,7 @@ import { useState } from 'react';
 import data from '../../data.json'
 import './countries.css'
 
-const Countries = () => {
+const Countries = ({theme}) => {
    const [inputValue, setInputValue] = useState('');
    const [area, setArea] = useState('')
 
@@ -39,7 +39,7 @@ const Countries = () => {
             }).filter((val) =>{
               return val.name.toLowerCase().includes(inputValue)
             }).map((value)=> {
-                return <AllCountries info={value} />
+                return <AllCountries info={value} theme={theme}/>
             })
         }
       </div>
