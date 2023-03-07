@@ -52,9 +52,13 @@
     font-weight: 600;
 }
 
-/* Link {
-  text-decoration: none;
-} */
+/* CSS FOR COUNTRY DETAILS */
+.container-countryDetails {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
 
 /* media queries */
 

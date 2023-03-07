@@ -23,7 +23,7 @@ function App() {
       <Navigation changeTheme={changeTheme}/>
       <Routes>
         <Route path='/' element={<Countries theme={theme}/>} />
-        <Route path="/country/:name" element={<CountryDetails />} />
+        <Route path="/name/:name" element={<CountryDetails />} />
       </Routes>
     </div>
   );
