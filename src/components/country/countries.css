@@ -1,0 +1,31 @@
+.filter-search-sections {
+    display: flex;
+    justify-content: space-between;
+    margin: 2.5rem 0;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.search-area, .filter-area{
+   padding: 0.4rem;
+   border-radius: 5px;
+}
+
+.search-items {
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 0 0.5rem;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search-area {
+    width: 100%;
+    border: none;
+    outline: none;
+}
