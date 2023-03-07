@@ -39,7 +39,7 @@ const Countries = ({theme}) => {
             }).filter((val) =>{
               return val.name.toLowerCase().includes(inputValue)
             }).map((value)=> {
-                return <AllCountries info={value} theme={theme}/>
+                return <AllCountries info={value} theme={theme} key={value.name}/>
             })
         }
       </div>
