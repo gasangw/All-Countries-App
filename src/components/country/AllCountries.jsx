@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const AllCountries = (props) => {
   const { name, flags, population, region, capital } = props.info;
   return (
-    <Link to={`/name/${name}`}>
+    <Link to={`/name/${name}`} className="link">
       <Card className="card-container">
         <Card.Img variant="top" src={flags.svg} />
         <Card.Body className={`card-body ${props.theme}`}>
