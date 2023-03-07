@@ -14,6 +14,7 @@
 
 .nav-icon {
     margin-left: auto;
+    cursor: pointer;
 }
 
 /* media queries */
