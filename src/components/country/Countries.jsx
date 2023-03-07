@@ -1,5 +1,7 @@
 import React from 'react';
 import { BsSearch } from "react-icons/bs";
+import AllCountries from './AllCountries';
+import data from '../../data.json'
 import './countries.css'
 
 const Countries = () => {
@@ -18,6 +20,13 @@ const Countries = () => {
             <option value='europe'>Europe</option>
             <option value='oceania'>Oceania</option>
         </select>
+      </div>
+      <div className='data-display'>
+        {
+            data && data.map((value)=> {
+                return <AllCountries info={value}/>
+            })
+        }
       </div>
     </div>
   )

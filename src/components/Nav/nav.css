@@ -15,3 +15,14 @@
 .nav-icon {
     margin-left: auto;
 }
+
+/* media queries */
+
+@media(max-width: 769px){
+    .nav-para, .nav-icon {
+        font-size: 0.9rem;
+        font-weight: 500;
+        padding: 0 0.5rem;
+    }
+
+}

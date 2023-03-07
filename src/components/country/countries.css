@@ -1,7 +1,10 @@
+.container {
+   margin: 3rem;
+}
+
 .filter-search-sections {
     display: flex;
     justify-content: space-between;
-    margin: 2.5rem 0;
 }
 
 .icon {
@@ -28,4 +31,53 @@
     width: 100%;
     border: none;
     outline: none;
+}
+
+
+/* stylying cards */
+
+.data-display{
+   margin-top: 1.5rem; 
+   display: grid;
+   gap: 2rem;
+   grid-template-columns: repeat(4, 1fr);
+}
+
+.card-container {
+  width: 90%;
+  text-align: left;
+}
+
+.card-body span {
+    font-weight: 600;
+}
+
+/* media queries */
+
+@media(max-width: 769px){
+    .data-display{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .container {
+        margin: 2rem;
+     }
+     
+     .card-container {
+       width: 95%;
+    }
+
+    .search-items {
+        width: 50%;
+    }
+
+    .search-area, .filter-area{
+        padding: 0.1rem;
+    }
+
+    .filter-area {
+        width: 30%;
+    }
+
 }
