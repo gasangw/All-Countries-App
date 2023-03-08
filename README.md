@@ -19,6 +19,10 @@
 ![desktop-design-detail-light](https://user-images.githubusercontent.com/99269832/223721529-33e9a9de-6fa8-44c0-9089-4b974f67bce3.jpg)
 
 # Mobile view
+![mobile-design-home-dark](https://user-images.githubusercontent.com/99269832/223721912-ad804c20-7bad-49ef-be4a-062b02e01653.jpg)
+![mobile-design-home-light](https://user-images.githubusercontent.com/99269832/223721925-d1b57afc-b302-45c8-9a0f-83f63d6e99cf.jpg)
+![mobile-design-detail-dark](https://user-images.githubusercontent.com/99269832/223721933-2f68ebb8-420c-4586-a9b4-71c73eacd609.jpg)
+![mobile-design-detail-light](https://user-images.githubusercontent.com/99269832/223721958-c25e896b-00e8-4187-b13b-84afab66df92.jpg)
 
 ## Live Demo
 
