@@ -10,7 +10,7 @@ const Countries = ({theme}) => {
    const [area, setArea] = useState('')
 
    const getValue = (e) => {
-      setInputValue(e.target.value)
+      setInputValue(e.target.value.toLowerCase())
    }
 
    const regionCountries =(e) =>{

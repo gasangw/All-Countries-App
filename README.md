@@ -9,43 +9,31 @@
 
 - HTML5
 - CSS3
-- Bootstrap
+- Bootstrap5
 - React
+
+# Views
+
+## Live Demo
+
+[Live Demo Link]()
 
 
 ## Getting Started
 - Run `git clone git@github.com:gasangw/All-Countries-App.git`
 
 
-To get a local copy up and running follow these simple example steps.
+👤 **Gasangwa Thomas**
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/gasangw)
+- Twitter: [@twitterhandle](https://twitter.com/ThomasGasangwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gasangwa-thomas-84197222a/)
 
 gi## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/gasangw/All-Countries-App/issues).
 
 ## Show your support
 
@@ -59,4 +47,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is licensed.
