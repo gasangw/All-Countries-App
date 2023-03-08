@@ -1,5 +1,6 @@
 import Card from "react-bootstrap/Card";
 import { Link } from "react-router-dom";
+import './countries.css'
 
 const AllCountries = (props) => {
   const { name, flags, population, region, capital } = props.info;
@@ -7,7 +8,7 @@ const AllCountries = (props) => {
     <Link to={`/name/${name}`} className="link">
       <Card className="card-container">
         <Card.Img variant="top" src={flags.svg} />
-        <Card.Body className={`card-body ${props.theme}`}>
+        <Card.Body className={`my-body ${props.theme}`}>
           <Card.Title>{name}</Card.Title>
           <Card.Text>
             <span>Population</span>: {population}
