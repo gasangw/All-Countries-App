@@ -12,7 +12,13 @@
 - Bootstrap5
 - React
 
-# Views
+# Desktop View 
+![desktop-design-home-dark](https://user-images.githubusercontent.com/99269832/223721433-f2a03a17-e775-4ec5-90e3-0582a9df9bd7.jpg)
+![desktop-design-home-light](https://user-images.githubusercontent.com/99269832/223721487-9082d303-7ceb-4e0b-a01c-855222787264.jpg)
+![desktop-design-detail-dark](https://user-images.githubusercontent.com/99269832/223721521-c07a4634-ed4a-4bce-8d24-33c77c09b085.jpg)
+![desktop-design-detail-light](https://user-images.githubusercontent.com/99269832/223721529-33e9a9de-6fa8-44c0-9089-4b974f67bce3.jpg)
+
+# Mobile view
 
 ## Live Demo
 
